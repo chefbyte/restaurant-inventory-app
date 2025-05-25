@@ -1,4 +1,4 @@
-# restaurant-inventory-app
+🍽️ Restaurant Menu & Inventory Tracker (No-Code Airtable Project)
 A no-code Airtable project to manage restaurant menu items, ingredients, and inventory logs.
 
 ## 🔍 Overview
@@ -52,4 +52,3 @@ Add screenshots from Airtable here:
 ## 📬 Contact
 
 Project by `@chefbyte`  
-Feel free to reach out or fork this repo if you're working on no-code restaurant tools!
