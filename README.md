@@ -42,7 +42,32 @@ Add screenshots from Airtable here:
 - Add cost-per-dish rollups
 - Create menu availability logic tied to inventory
 - Connect to a Glide App for mobile front-of-house interface
+  
+## 🍰 Digital Dessert Menu Prototype (Glide App)
 
+This mobile-friendly dessert menu prototype was built using [Glide](https://www.glideapps.com/) as a proof of concept for a chef-driven ordering experience. It complements the Airtable inventory system by simulating front-of-house menu browsing and simple order submission.
+
+### 📱 Try the App
+
+[➡️ View the Live App](https://digital-dessert-menu.glide.page/dl/a400f7)
+
+Best viewed on mobile. No login required.
+
+### 🖼️ App Preview
+
+![Menu Screenshot](screenshots/menu_screenshot_resized_1.png)
+
+### 🔧 Built With
+
+- [Glide](https://www.glideapps.com/) — for building the mobile app UI
+- Sample data & photos from Pexels and Pixabay
+- CSV formatting done in Python for easy import
+
+### 💡 What It Demonstrates
+
+- Menu item grouping by seasonal tag (Spring, Summer, etc.)
+- Phased rollout status and training checkboxes
+- Tap-to-order functionality with quantity + table number form
 ## 🧠 What I Learned
 
 - How to design real-world workflows using Airtable
