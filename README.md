@@ -1,5 +1,6 @@
 🍽️ Restaurant Menu & Inventory Tracker (No-Code Project)
-📁 This repo documents a no-code solution for restaurant operations, built in Airtable and extended with a Glide app for mobile ordering.
+
+📁 This repo documents a no-code solution for restaurant operations, built in Airtable and extended with an optional Glide app for mobile ordering.
 
 ## 🔍 Overview
 
@@ -7,15 +8,18 @@ This project helps restaurants and cafes:
 - Track ingredient inventory in real time
 - Log additions, usage, and spoilage
 - Dynamically manage active menu items based on ingredient availability
+- Prototype a mobile app for digital menu browsing and simple order capture
 - Lay the foundation for future cost analysis and supplier tracking
 
 Built using Airtable with a focus on operations logic, not code.
 
 ## ⚙️ Tools Used
 
-- **Airtable** – Database for managing inventory, dishes, and usage logs
-- **CSV Import** – For initial ingredient data setup
-- **GitHub** – For documenting and showcasing project work
+- **Airtable** – For managing inventory, menu items, and usage logs with no-code logic
+- **Glide** – For building a mobile-friendly digital dessert menu and order form without writing code
+- **CSV Import** – For loading sample ingredient and menu data
+- **GitHub** – For documenting, versioning, and showcasing project work
+- **Python (Pandas)** – Used to clean and export sample data to CSV for Glide import
 
 ## 🧩 Key Tables
 
@@ -68,6 +72,7 @@ Best viewed on mobile. No login required.
 - Menu item grouping by seasonal tag (Spring, Summer, etc.)
 - Phased rollout status and training checkboxes
 - Tap-to-order functionality with quantity + table number form
+  
 ## 🧠 What I Learned
 
 - How to design real-world workflows using Airtable
